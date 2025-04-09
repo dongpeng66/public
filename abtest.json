@@ -1,7 +1,5 @@
 {
-    "Boolean": true, 
-    "Null": null, 
-    "Number": 123, 
+    "respCode": "0", 
     "respData": {
         "testdata": [
             {
@@ -25,6 +23,5 @@
                 "abtv": "1"
             }
         ]
-    }, 
-    "respCode": "0"
+    }
 }
